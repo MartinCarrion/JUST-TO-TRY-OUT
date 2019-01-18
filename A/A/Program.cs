@@ -11,6 +11,8 @@ namespace A
         static void Main(string[] args)
         {
             Console.WriteLine("Help");
+            Console.WriteLine("IF CANNOT PUSH, GO TO SYNC, ACTIONS, OPEN COMMAND PROMPT, COPY AND PASTE THE CODE FROM WEBSITE");
+
 
         }
     }
